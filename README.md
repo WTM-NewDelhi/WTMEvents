@@ -13,3 +13,5 @@ List of all the events conducted by WTM along with major collaboration events wi
 |  Event Name  |  Date  |  Link to Event  |  Slides Link  | Collaborators |
 |--------------|--------|-----------------|---------------|---------------|
 | Hands-On Go | 25.03.2018 | [Click](https://www.facebook.com/events/212778972638455/) | [Click](https://github.com/wwgdelhi/Talks/issues) | [Women Who Go-Delhi](https://github.com/wwgdelhi)
+
+### We are open to submission of proposals here : [Click](https://github.com/WTM-NewDelhi/Proposals)
