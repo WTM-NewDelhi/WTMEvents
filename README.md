@@ -1,5 +1,5 @@
 # WTMEvents
-List of all the events conducted by WTM along with major collaboration events with other communities 
+List of all the events conducted by WTM along with major collaboration events with other communities.
 
 ## Our Events
 
